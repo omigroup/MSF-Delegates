@@ -1,4 +1,4 @@
-# Working Group Name
+# OMI MSF Delegates Shared Repo (Draft) 
 
 ## About: 
 Description of working working group
