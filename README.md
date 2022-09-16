@@ -1,18 +1,24 @@
 # OMI MSF Delegates Shared Repo (Draft) 
 
 ## About: 
-The OMI Delegates are a group within the Open Metaverse Interoperability group, who have volunteered to represent OMI and engange with the Metaverse Standards Forum (MSF). Not exactly a working group, but this group does meet regularly to discuss MSF, and share out updates. 
+MSF Delegates is a group of volunteers within the Open Metaverse Interoperability group. We represent OMI Group interests as a Standards Development Organisation (SDO) and as a Principal Member within Metaverse Standards Forum (MSF) through voting. The group also acts as a conduit for the exchange of information between the two organisations; meeting regularly to review, discuss and share key developments and opportunities. 
+
+## Reasons to get involved: 
+- MSF membership comprises 1600+ members committed to create open standards for the Metaverse
+- A unique opportunity to shape the development of this space 
+- Make new connections and find speaking engagements
 
 ## How you can get involved: 
-- The delegates meet every Wednesday at 15:00 UTC to share out recent findings from the MSF event that occurs weekly at 14:00 UTC. 
-- We track our active tickets with our [Github Projects Kanban Backlog](../../projects/1?add_cards_query=is%3Aopen)
-- We organize our backlog with intent using github [Milestones](../../milestones) which makes it easier to track progress based on desired outcomes and objectives. Our first milestone is kicking off this repo! 
-- We discuss our efforts using Discord, in the `#MSF-Delegates` channel. 
-- Any questions? Contact the designated working group lead(s) @humbletim.
+- MSF Delegates currently meet weekly on Wednesdays at 15:00 UTC to review the outputs of MSF meetings occuring throughout the week.  
+- We track active tickets with our [Github Projects Kanban Backlog](../../projects/1?add_cards_query=is%3Aopen)
+- We organise our backlog using github [Milestones](../../milestones) which makes it easy to track progress based on desired outcomes and objectives.
+- We discuss our efforts using Discord in the `#MSF-Delegates`. 
+- Other channels include `#MSF-Recaps` and `#MSF-Opportunities`.
+- Questions can be addressed to group members: @humbletim @josephonedorada @pcsmgnt @a. and @jin.
 
-Our outstanding TBD's for this repo: 
-- Visit [setting up this repo](https://github.com/omigroup/MSF-Delegates/milestone/1) milestone. 
+Outstanding TBD's for this repo include: 
+- Visit [setting up our repo](https://github.com/omigroup/MSF-Delegates/milestone/1) milestone. 
 - Our [working agreement has not yet been formed](../../discussions) on github discussions
 - We might have a group retrospective on the 4th ___ of every month to reflect on what is going well, what could be improved, and what we will do differently next cycle. 
-- We will / or will not be recording our meetings and you can or can not find those meeting recordings here
-- We will create an agenda before our recurring meetings, and take notes during our meeting. 
+- We record and store meetings outputs [here] (https://discord.gg/raXnTHN7)
+- We create agendas before meetings and publish notes after meetings. 
