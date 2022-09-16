@@ -20,5 +20,5 @@ Outstanding TBD's for this repo include:
 - Visit [setting up our repo](https://github.com/omigroup/MSF-Delegates/milestone/1) milestone. 
 - Our [working agreement has not yet been formed](../../discussions) on github discussions
 - We might have a group retrospective on the 4th ___ of every month to reflect on what is going well, what could be improved, and what we will do differently next cycle. 
-- We record and store meetings outputs [here] (https://discord.gg/raXnTHN7)
+- We record and store meetings outputs [here](https://discord.gg/raXnTHN7)
 - We create agendas before meetings and publish notes after meetings. 
