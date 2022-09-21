@@ -8,7 +8,7 @@ MSF Delegates is a group of volunteers within the Open Metaverse Interoperabilit
 - A unique opportunity to shape the development of this space 
 - Make new connections and find speaking engagements
 
-## How you can get involved: 
+## Our Activities: 
 - MSF Delegates currently meet weekly on Wednesdays at 15:00 UTC to review the outputs of MSF meetings occuring throughout the week.  
 - We track active tickets with our [Github Project Board](https://github.com/orgs/omigroup/projects/8), which we review during our weekly meetings.
 - We organise our backlog using github [Milestones](../../milestones) which makes it easy to track progress based on desired outcomes and objectives.
@@ -27,7 +27,7 @@ Current exploratory group proposals are as follows:
 * [Digital Fashion Wearables for Avatars](https://docs.google.com/document/d/1Yn1bQTUolJycp1pLrXvit2QfSia_9zpJffMssDPOl24/edit)
 * [Real/Virtual World Integration](https://docs.google.com/document/d/10X9W91vEnDhlPcpfp5ZfgR-gJCYhxBZxsJ0qY07Ijlk/edit)
 
-OMI members are welcome to visit the above proposals and provide feedback and comments within the Google docs.
+__Action step:__ OMI members are welcome to visit the above proposals and provide feedback and comments within the Google docs.
  
 
 ## Contacts 
