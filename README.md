@@ -10,7 +10,7 @@ MSF Delegates is a group of volunteers within the Open Metaverse Interoperabilit
 
 ## How you can get involved: 
 - MSF Delegates currently meet weekly on Wednesdays at 15:00 UTC to review the outputs of MSF meetings occuring throughout the week.  
-- We track active tickets with our [Github Projects Kanban Backlog](../../projects/1?add_cards_query=is%3Aopen)
+- We track active tickets with our [Github Project Board](https://github.com/orgs/omigroup/projects/8)
 - We organise our backlog using github [Milestones](../../milestones) which makes it easy to track progress based on desired outcomes and objectives.
 - We discuss our efforts using [Discord](https://discord.gg/raXnTHN7) in the [#MSF-Delegates](https://discord.com/channels/770382203782692945/1000781076463112234) channel. 
 - Other channels include 
