@@ -27,7 +27,7 @@ Current exploratory group proposals are as follows:
 * [Digital Fashion Wearables for Avatars](https://docs.google.com/document/d/1Yn1bQTUolJycp1pLrXvit2QfSia_9zpJffMssDPOl24/edit)
 * [Real/Virtual World Integration](https://docs.google.com/document/d/10X9W91vEnDhlPcpfp5ZfgR-gJCYhxBZxsJ0qY07Ijlk/edit)
 
-__Action step:__ OMI members are welcome to visit the above proposals and provide feedback and comments within the Google docs.
+#### Action step: OMI members are welcome to visit the above proposals and provide feedback and comments within the Google docs.
  
 
 ## Contacts 
