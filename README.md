@@ -31,4 +31,4 @@ Current exploratory group proposals are as follows:
  
 
 ## Contacts 
-- Questions can be addressed to ant of the following group members: @humbletim, @funksoup, @pcsmgnt, @a and @jin.
+- Questions can be addressed to any of the following group members: @funksoup, @pcsmgnt, @a and @jin. See `msf-delegate` role in discord. 
